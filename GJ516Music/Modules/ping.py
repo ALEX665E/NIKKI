@@ -55,7 +55,7 @@ async def ping_fallen(_, message: Message):
 ✾ **𝘾𝙥𝙪 :** {cpu}
 ✾ **𝘿𝙞𝙨𝙠 :** {disk}
 
-||𝙈𝙖𝙙𝙚 𝘽𝙮 : [ــ٨ﮩﮩ𝗝♡𝗬💸](https://t.me/export_gabbar) || """,
+||𝙈𝙖𝙙𝙚 𝘽𝙮 : [Ａｒｙａｎ💸](https://t.me/devil_iz_back) || """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
